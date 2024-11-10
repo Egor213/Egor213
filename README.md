@@ -1,2 +1,2 @@
 
-![Описание GIF](assest/doc_2024-11-10_17-34-22.mp4)
+![Описание GIF](assest/makaka.gif)
