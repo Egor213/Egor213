@@ -1,2 +1,3 @@
-
-![Описание GIF](assest/makaka.gif)
+<p align="center">
+  <img src="assest/makaka.gif" alt="Описание GIF">
+</p>
