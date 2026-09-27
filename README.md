@@ -1,4 +1,4 @@
-Hi, I'm Egor 👋
+<h1>Hi, I'm Egor 👋</h1>
 Backend developer. Ex-intern at T-Bank and Yandex. I build Go/Python services with gRPC, Kafka, PostgreSQL, Redis, Docker.
 
 Selected projects::
